@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+div.webq_send{
+    margin:20px;
+}
+
+input.webq_send{
+    margin-bottom: 10px;
+}
